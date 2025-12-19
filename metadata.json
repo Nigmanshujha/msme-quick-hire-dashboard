@@ -1,0 +1,7 @@
+{
+  "name": "MSME Quick-Hire Dashboard",
+  "description": "A super-fast hiring platform for MSMEs to find, call, and hire candidates in seconds using AI voice search, smart templates, and instant matching.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
